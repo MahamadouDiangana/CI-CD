@@ -1,4 +1,3 @@
-# Importing the dependencies
 import json
 import pickle
 
